@@ -74,11 +74,12 @@ Datheon_Python_Internship/
 │
 ├── hangman.py
 ├── portfolio.py
+├── portfolio_summary.csv
 ├── organizer.py
 ├── chatbot.py
 ├── faq.json
+├── requirements.txt
 └── README.md
-```
 
 ## Installation
 
